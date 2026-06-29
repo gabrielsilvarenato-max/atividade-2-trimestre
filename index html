@@ -1,1 +1,31 @@
-<h1>Titulo do site</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+<h1>confere ai</h1>
+<nav>
+    <a href=" #">Inicio</a>
+</nav>
+</header>
+    <main></main>
+<h2> Descubra a Verdade Passando o mouse</h2>
+ <article>
+    <div>
+        <div>
+<img src="https://shopee.com.br/begrenng-M%C3%A1scara-Fantasma-Japonesa-Hannya-De-Halloween-Prajna-Meia-Face-M%C3%A1scaras-Samurai-i.348213819.20428031395" alt ="mascara">
+        <p> Mascaras sao reias ?</p>
+        </div>
+         <div>
+<img src="https://shopee.com.br/begrenng-M%C3%A1scara-Fantasma-Japonesa-Hannya-De-Halloween-Prajna-Meia-Face-M%C3%A1scaras-Samurai-i.348213819.20428031395" alt ="mascara">
+        <p> sim elas sao reias</p>
+         </div>
+                </div>
+            </article>
+<footer></footer>
+</body>
+</html>
